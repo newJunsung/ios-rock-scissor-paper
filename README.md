@@ -1,5 +1,8 @@
-# Tasty Code
+# 묵찌빠 프로젝트 ✊✌️🖐️
 
-### 묵찌빠 프로젝트 저장소
+## 팀원🌠
 
-- 이 저장소를 자신의 저장소로 fork하여 프로젝트를 진행합니다.
+| 프로필 사진 | <img src="https://avatars.githubusercontent.com/u/107932188?v=4" width="90" height="90"> | <img src="https://avatars.githubusercontent.com/u/142188004?v=4" width="90" height="90"> |
+| ---- | ----------- | --------- |
+| in Github | @newJunsung | @SimJaeHyeok |
+| in SeSAC | 뉴준성 | JaeHyeok |
