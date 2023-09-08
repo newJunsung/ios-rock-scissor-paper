@@ -49,29 +49,36 @@ H --> |Lose, Computer turn| F
 ## 실행화면:video_game:
 ### 가위바위보
 - **승리**
-<img width="976" alt="스크린샷 2023-09-08 오후 3 35 42" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/107932188/40e00d7c-0609-4275-8caa-877cac5bc308">
+![win](https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/39f69d1f-af09-4f90-b659-4d4a871d0f9f)
+
+
 
 - **패배**
-<img width="976" alt="스크린샷 2023-09-08 오후 3 34 57" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/107932188/239cc454-02e8-4fdb-9c9c-41c20ea0a78a">
+![lose](https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/79a5997b-6f8b-4e8d-9d64-3d5da1debc3a)
 
 - **입력 오류**
-<img width="976" alt="스크린샷 2023-09-08 오후 3 41 59" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/107932188/40f72d48-90fc-4c3d-9fc9-7d530502e05b">
+![error](https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/bd8642fe-119f-45cd-a685-eb47c1b8f9b7)
 
 - **종료**
-<img width="976" alt="스크린샷 2023-09-08 오후 3 35 30" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/107932188/0f380d66-8730-407b-8a78-3b260726ebed">
+![exit](https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/322a7965-feea-4502-9e5c-fd72d8b9c243)
+
 
 ### 묵찌빠
 - **승리**
-<img width="976" alt="스크린샷 2023-09-08 오후 3 38 22" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/107932188/5c54bee0-a294-4ce1-ac44-72d93d2683de">
+![PlayerWin](https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/ced78369-d1d4-44c6-a69c-058c351b1b81)
 
 - **패배**
-<img width="976" alt="image" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/107932188/12f8768a-b595-47f5-b8c4-7949d5449803">
+![ComputerWin](https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/c1f5c275-160e-4d55-8e45-52e6ed515d02)
+
+
 
 - **입력 오류**
-<img width="976" alt="image" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/107932188/2bc86083-76ac-4a7a-8161-242f4d043a51">
+![InputError](https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/dd418627-f582-4df0-a763-a6fff9b41927)
+
 
 - **종료**
-<img width="976" alt="image" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/107932188/dc63ad13-99b1-4791-bff2-169e020dfdd9">
+![GameExit](https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/305e6684-0c77-467f-9a8c-a1ee9e546907)
+
 
 [목차로 이동](#목차zap)
 
