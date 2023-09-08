@@ -19,10 +19,18 @@
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[Input] -->B[battle]
+B --> C{BattleResult}
+C -->|Win| D[Player turn]
+C -->|Lose| E[Computer turn]
+C -->|Draw| A
+D --> F[Input]
+E --> F[Input]
+F --> G[Battle]
+G --> H{BattleResult}
+H --> |Draw| I[Turn owner win!]
+H --> |Win, Player turn| F
+H --> |Lose, Computer turn| F
 ```
 
 ## 실행화면🎮
