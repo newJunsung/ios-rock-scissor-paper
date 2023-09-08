@@ -6,3 +6,21 @@
 | ---- | ----------- | --------- |
 | in Github | @newJunsung | @SimJaeHyeok |
 | in SeSAC | 뉴준성 | JaeHyeok |
+
+## 파일 구조📁
+- RockPaperScissors
+  + BattleResult.swift
+  + main.swift
+  + PlayingGameException.swift
+  + RockPaperScissors.swift
+  + RockPaperScissors.swift
+
+## 실행화면🎮
+### 가위바위보
+-이미지 칸-
+
+### 묵찌빠
+-이미지 칸-
+
+## 고민한 점🤔
+-고민한 점-
