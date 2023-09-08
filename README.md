@@ -83,11 +83,12 @@ H --> |Lose, Computer turn| F
 [목차로 이동](#목차zap)
 
 ## 고민한점:astonished:
+
 * Comparable를 이용한 상성 관계 표현
+<img width="550" alt="스크린샷 2023-09-08 오후 3 47 40" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/97fed147-62c4-4a60-beb3-40bea72136d3">
 
+[Comparable](https://developer.apple.com/documentation/swift/comparable)
 
- <a href="https://developer.apple.com/documentation/swift/comparable"><img width="550" alt="스크린샷 2023-09-08 오후 3 47 40" src="https://github.com/newJunsung/ios-rock-scissor-paper/assets/142188004/97fed147-62c4-4a60-beb3-40bea72136d3"></a>
-  <br>
 가위바위보 프로젝트를 진행하면서 가위바위보의 상성 관계를 어떻게 구현할 것 인가에 대한 고민을 많이 했었다. 처음엔 숫자로 조건을 분기하여 상성 관계를 구현했지만,
 Comparable Protocol을 사용해서 상성 관계를 구현하여 코드가 간결해지고 가독성이 더 좋아졌고, 가위바위보 프로젝트에 이어 묵찌빠 프로젝트를 사용할 때에도 상성 관계를 이용하여 코드를 더욱 쉽게 작성할 수 있었다.
 
